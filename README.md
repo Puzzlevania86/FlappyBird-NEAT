@@ -24,7 +24,7 @@ Make sure you have the following dependencies installed:
 
 ## Credits 
 
-The project was based off Tech With Tim's "Python Flappy Bird AI Tutorial (with Neat)". The video can be found here: [Tutorial](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2&index=1)
+The project was based off Tech With Tim's "Python Flappy Bird AI Tutorial (with Neat)". The video can be found here: [Tutorial](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2&index=1).
 The project was expanded by testing various stats within the config file, randomizing gaps between pipes, organization of the code, commenting, and some syntax changes
 
 ## What I've Learned

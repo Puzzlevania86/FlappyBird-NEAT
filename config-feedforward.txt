@@ -7,9 +7,9 @@ no_fitness_termination = False
 
 [DefaultGenome]
 # node activation options
-activation_default      = sin
+activation_default      = tanh
 activation_mutate_rate  = 0.0
-activation_options      = sin
+activation_options      = tanh
 
 # node aggregation options
 aggregation_default     = sum
